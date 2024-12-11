@@ -10,5 +10,3 @@
 - It shows how different app. arch. works with together 
 
 ## Service Oriented Architecture 
-
-- 
