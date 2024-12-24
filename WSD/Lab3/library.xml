@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<library>
+    <categories id="cat-1">
+        <name>
+            Fiction
+        </name>
+        <books>
+            <book id="b-001">
+                <title>1984</title>
+                <bookAuthor id="A101">George Orwell</bookAuthor>
+                <publication year="1949"/>
+                <price currency="USD">9.99</price>
+            </book>
+            <book id="b-002">
+                <title>To Kill a Mockingbird</title>
+                <bookAuthor id="A102">Harper Lee</bookAuthor>
+                <publication year="1960"/>
+                <price currency="USD">7.99</price>
+            </book>
+        </books>
+    </categories>
+    <categories id="cat-2">
+        <name>
+            Science
+        </name>
+        <books>
+            <book id="b-003">
+                <title>A Brief History of Time</title>
+                <bookAuthor id="A103">Stephen Hawking</bookAuthor>
+                <publication year="1988"/>
+                <price currency="USD">15.00</price>
+            </book>
+        </books>
+    </categories>
+    <authors>
+        <author id="A101">
+            <authorName>George Orwell</authorName>
+            <nationality>British</nationality>
+        </author>
+        <author id="A102">
+            <authorName>Harper Lee</authorName>
+            <nationality>American</nationality>
+        </author>
+        <author id="A103">
+            <authorName>Stephen Hawking</authorName>
+            <nationality>British</nationality>
+        </author>
+    </authors>
+</library>
+
