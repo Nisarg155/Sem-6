@@ -1,0 +1,6 @@
+@Lab10_microservice_HostAddress = http://localhost:5122
+
+GET {{Lab10_microservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

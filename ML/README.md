@@ -11,6 +11,8 @@
 ## Fundamentals 
 
 - [confusion matrix video](https://www.youtube.com/watch?v=Kdsp6soqA7o&list=PLblh5JKOoLUJUNlfvCNhJMNjNNpt5ljcR&index=29)
+- [Bias Variance Tradeoff](https://www.youtube.com/watch?v=74DU02Fyrhk)
+- [Bias Variance Tradeoff 2 ](https://www.youtube.com/watch?v=EuBBz3bI-aA)
 
 
 ## **Supervised Learning**
